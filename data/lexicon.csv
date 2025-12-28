@@ -1,0 +1,15 @@
+word,sentiment_score,category
+uthbe,0.7,Bullish
+rocket,1.0,Bullish
+gamsa,0.8,Bullish
+khela hobe,0.8,Bullish
+toofan,0.9,Bullish
+nambe,-0.7,Bearish
+dhos,-1.0,Bearish
+blood-bath,-1.0,Bearish
+bash-khaoya,-0.9,Bearish
+panic-sell,-0.9,Bearish
+khelche,0.0,Neutral
+sideways,0.0,Neutral
+steady,0.05,Neutral
+ghumaitese,-0.1,Neutral
